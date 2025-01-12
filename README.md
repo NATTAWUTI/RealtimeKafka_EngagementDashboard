@@ -14,18 +14,18 @@ create steam project near realtime using kafka (confulence) by run on Ubvuntu in
 
 
 # docker-compose.yml what is about service
-Broker   -- kafka name first
-broker1 -- kafka of second
-broker2 -- kafka of third
-schema-registry – support control format schema type data Json,Avro …  from topic.
-Connect – using connection other source or data generation for mock data
-ksqldb-server – control server backend of kqldb.
-ksqldb-cl  -- UI interphase write code sql script and flow.
-rest-proxy –  support broker fail or down.
-control-center  -- UI Interphase of kaka (confluent)
-pinot-zookeeper – The central brain for coordination.
-pinot-broker  --  Manages queries and delivers results to users.
-pinot-server -- Stores actual data and executes queries.
+* Broker   -- kafka name first
+* broker1 -- kafka of second
+* broker2 -- kafka of third
+* schema-registry – support control format schema type data Json,Avro …  from topic.
+* Connect – using connection other source or data generation for mock data
+* ksqldb-server – control server backend of kqldb.
+* ksqldb-cl  -- UI interphase write code sql script and flow.
+* rest-proxy –  support broker fail or down.
+* control-center  -- UI Interphase of kaka (confluent)
+* pinot-zookeeper – The central brain for coordination.
+* pinot-broker  --  Manages queries and delivers results to users.
+* pinot-server -- Stores actual data and executes queries.
 
 
 
@@ -41,14 +41,14 @@ pinot-server -- Stores actual data and executes queries.
 
 
 # table
-users_engagement
-users_
-pageviews_
-users_engagement_clean_T4
-users_engagement_joinAgg_T5
-ACTION_TUMLING_T6
-DEVICE_HOPPING_T7
-COUNTRY_WINDOW_T8
+* users_engagement
+* users_
+* pageviews_
+* users_engagement_clean_T4
+* users_engagement_joinAgg_T5
+* ACTION_TUMLING_T6
+* DEVICE_HOPPING_T7
+* COUNTRY_WINDOW_T8
 
 
-##kaka##confluenct ##steaming ##python ##pinot ##Steamlit
+##kaka##confluenct ##steaming ##python ##pinot ##Steamlit ##AWS
