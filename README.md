@@ -27,7 +27,7 @@ pinot-server -- Stores actual data and executes queries.
 
 
 #  topic
-Topic 1 : users_engagement
+Topic 1 : users_engagement \n
 Topic 2 : users_
 Topic 3 : pageviews_
 Topic 4 : users_engagement_clean_T4
