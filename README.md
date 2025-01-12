@@ -30,14 +30,14 @@ pinot-server -- Stores actual data and executes queries.
 
 
 #  topic
-Topic 1 : users_engagement \n
-Topic 2 : users_
-Topic 3 : pageviews_
-Topic 4 : users_engagement_clean_T4
-Topic 5 : users_engagement_joinAgg_T5
-Topic 6 : ACTION_TUMLING_T6
-Topic 7 : DEVICE_HOPPING_T7
-Topic 8 : COUNTRY_WINDOW_T8
+* Topic 1 : users_engagement \n
+* Topic 2 : users_
+* Topic 3 : pageviews_
+* Topic 4 : users_engagement_clean_T4
+* Topic 5 : users_engagement_joinAgg_T5
+* Topic 6 : ACTION_TUMLING_T6
+* Topic 7 : DEVICE_HOPPING_T7
+* Topic 8 : COUNTRY_WINDOW_T8
 
 
 # table
