@@ -1,5 +1,6 @@
 # RealtimeKafka_EngagementDashboard
-I create steam near realtime using kafka (confulence) by run on Ubvuntu in AWS and flow below :
+create steam project near realtime using kafka (confulence) by run on Ubvuntu in AWS and flow below :
+
 
 # Flow overview
 ![image](https://github.com/user-attachments/assets/f6909ca8-d041-4744-ae2a-babfcc528acb)
@@ -9,6 +10,7 @@ I create steam near realtime using kafka (confulence) by run on Ubvuntu in AWS a
 # Flow in kafka (confluence)
 
 ![image](https://github.com/user-attachments/assets/d0b141e3-b1a5-4bb7-930f-a66da4c499f4)
+
 
 
 # docker-compose.yml what is about service
@@ -26,6 +28,7 @@ pinot-broker  --  Manages queries and delivers results to users.
 pinot-server -- Stores actual data and executes queries.
 
 
+
 #  topic
 Topic 1 : users_engagement \n
 Topic 2 : users_
@@ -35,6 +38,7 @@ Topic 5 : users_engagement_joinAgg_T5
 Topic 6 : ACTION_TUMLING_T6
 Topic 7 : DEVICE_HOPPING_T7
 Topic 8 : COUNTRY_WINDOW_T8
+
 
 # table
 users_engagement
